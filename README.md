@@ -7,6 +7,8 @@ Sitio web [Qoutify](https://quotify.io)
 
 ![Quotify](https://quotify.io/assets/img/quotify-cotizacion.png)
 
-<https://quotify.io>
+Sitio web: <https://quotify.io>
 
-<hola@quotify.io>
+Documentación de uso: <https://doc.quotify.io>
+
+Correo de contacto: <hola@quotify.io>
